@@ -1,0 +1,46 @@
+{
+  "name" : "Address_Verifier_OOTB-1726566223521",
+  "sourceOrgId" : "aAi9xDwQoHGiOXIMY3ipyX",
+  "sourceOrgName" : "rogtat",
+  "exportedObjects" : [ {
+    "objectGuid" : "2LcnvsZUlCbiFDVlEywq0v",
+    "objectName" : "Address_Verifier_OOTB",
+    "objectType" : "VERIFIER",
+    "path" : "/Explore/Business360",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2LcnvsZUlCbiFDVlEywq0v"
+      },
+      "objectRefs" : [ ],
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifies the address.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  }, {
+    "objectGuid" : "7j1K9H2zIZUhtKApN7swMp",
+    "objectName" : "Business360",
+    "objectType" : "Project",
+    "path" : "/Explore",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "objectRefs" : [ ],
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  } ]
+}
